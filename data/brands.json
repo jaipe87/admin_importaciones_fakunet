@@ -1,0 +1,6 @@
+[
+  { "id": "1", "name": "Hikvision", "active": true },
+  { "id": "2", "name": "Hagroy", "active": true },
+  { "id": "3", "name": "Paradox", "active": true },
+  { "id": "4", "name": "Dahua", "active": true }
+]

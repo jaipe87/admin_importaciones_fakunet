@@ -1,0 +1,53 @@
+[
+  {
+    "code": "CAM-001",
+    "name": "Cámara IP Exterior WiFi",
+    "brand": "Hikvision",
+    "category": "Cámaras de seguridad",
+    "description": "Cámara de vigilancia resistente al agua con visión nocturna.",
+    "features": [
+      "Resolución 1080p",
+      "Visión nocturna 30m",
+      "Resistencia IP66"
+    ],
+    "stock": "15 unidades",
+    "whatsapp_message": "Hola, estoy interesado en el producto Cámara IP Exterior WiFi (código CAM-001). Lo vi en la web de Importaciones Fakunet y quiero más información.",
+    "image_url": "",
+    "active": true,
+    "pdf_url": ""
+  },
+  {
+    "code": "ALM-202",
+    "name": "Kit Alarma Vecinal",
+    "brand": "Hagroy",
+    "category": "Alarmas",
+    "description": "Sistema de alarma comunitaria con sirena de alta potencia.",
+    "features": [
+      "Sirena 30W",
+      "Activación por control remoto",
+      "Batería de respaldo"
+    ],
+    "stock": "5 kits",
+    "whatsapp_message": "Hola, estoy interesado en el producto Kit Alarma Vecinal (código ALM-202). Lo vi en la web de Importaciones Fakunet y quiero más información.",
+    "image_url": "",
+    "active": true,
+    "pdf_url": ""
+  },
+  {
+    "code": "SEN-305",
+    "name": "Sensor de Movimiento PIR",
+    "brand": "Paradox",
+    "category": "Sensores y detectores",
+    "description": "Sensor infrarrojo pasivo para interiores, inmune a mascotas.",
+    "features": [
+      "Alcance 12m",
+      "Inmunidad mascotas hasta 20kg",
+      "Ángulo 90 grados"
+    ],
+    "stock": "50 unidades",
+    "whatsapp_message": "Hola, estoy interesado en el producto Sensor de Movimiento PIR (código SEN-305). Lo vi en la web de Importaciones Fakunet y quiero más información.",
+    "image_url": "",
+    "active": false,
+    "pdf_url": ""
+  }
+]

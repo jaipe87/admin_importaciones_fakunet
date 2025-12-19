@@ -1,0 +1,10 @@
+[
+  { "id": "1", "name": "Cámaras de seguridad", "active": true },
+  { "id": "2", "name": "Alarmas", "active": true },
+  { "id": "3", "name": "Sensores y detectores", "active": true },
+  { "id": "4", "name": "Sirenas y luces estroboscópicas", "active": true },
+  { "id": "5", "name": "Cables y cableado", "active": true },
+  { "id": "6", "name": "Supresores y protección eléctrica", "active": true },
+  { "id": "7", "name": "Luces de emergencia", "active": true },
+  { "id": "8", "name": "Accesorios y otros", "active": true }
+]
