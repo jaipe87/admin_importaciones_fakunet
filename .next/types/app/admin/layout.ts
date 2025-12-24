@@ -1,4 +1,4 @@
-// File: D:\laragon\www\importaciones-fakunet-admin\app\admin\layout.tsx
+// File: D:\fakunet\importaciones-fakunet-admin\app\admin\layout.tsx
 import * as entry from '../../../../app/admin/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

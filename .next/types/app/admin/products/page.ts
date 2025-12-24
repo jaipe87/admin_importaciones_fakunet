@@ -1,4 +1,4 @@
-// File: D:\laragon\www\importaciones-fakunet-admin\app\admin\products\page.tsx
+// File: D:\fakunet\importaciones-fakunet-admin\app\admin\products\page.tsx
 import * as entry from '../../../../../app/admin/products/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

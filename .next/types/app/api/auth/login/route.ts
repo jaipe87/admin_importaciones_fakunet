@@ -1,4 +1,4 @@
-// File: D:\laragon\www\importaciones-fakunet-admin\app\api\auth\login\route.ts
+// File: D:\fakunet\importaciones-fakunet-admin\app\api\auth\login\route.ts
 import * as entry from '../../../../../../app/api/auth/login/route.js'
 import type { NextRequest } from 'next/server.js'
 

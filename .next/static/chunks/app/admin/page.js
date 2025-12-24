@@ -8,13 +8,13 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/admin/page"],{
 
-/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Claragon%5Cwww%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!":
-/*!******************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Claragon%5Cwww%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false! ***!
-  \******************************************************************************************************************************************************************************************************************/
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Cfakunet%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!":
+/*!************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Cfakunet%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false! ***!
+  \************************************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/link.js */ \"(app-pages-browser)/./node_modules/next/dist/client/link.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz1EJTNBJTVDbGFyYWdvbiU1Q3d3dyU1Q2ltcG9ydGFjaW9uZXMtZmFrdW5ldC1hZG1pbiU1Q25vZGVfbW9kdWxlcyU1Q25leHQlNUNkaXN0JTVDY2xpZW50JTVDbGluay5qcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/ZGM2MCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkQ6XFxcXGxhcmFnb25cXFxcd3d3XFxcXGltcG9ydGFjaW9uZXMtZmFrdW5ldC1hZG1pblxcXFxub2RlX21vZHVsZXNcXFxcbmV4dFxcXFxkaXN0XFxcXGNsaWVudFxcXFxsaW5rLmpzXCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Claragon%5Cwww%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!\n"));
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/link.js */ \"(app-pages-browser)/./node_modules/next/dist/client/link.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz1EJTNBJTVDZmFrdW5ldCU1Q2ltcG9ydGFjaW9uZXMtZmFrdW5ldC1hZG1pbiU1Q25vZGVfbW9kdWxlcyU1Q25leHQlNUNkaXN0JTVDY2xpZW50JTVDbGluay5qcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/ZWI2ZiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkQ6XFxcXGZha3VuZXRcXFxcaW1wb3J0YWNpb25lcy1mYWt1bmV0LWFkbWluXFxcXG5vZGVfbW9kdWxlc1xcXFxuZXh0XFxcXGRpc3RcXFxcY2xpZW50XFxcXGxpbmsuanNcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Cfakunet%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!\n"));
 
 /***/ }),
 
@@ -230,7 +230,7 @@ eval(__webpack_require__.ts("\nObject.defineProperty(exports, \"__esModule\", ({
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Claragon%5Cwww%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5Cfakunet%5Cimportaciones-fakunet-admin%5Cnode_modules%5Cnext%5Cdist%5Cclient%5Clink.js&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
